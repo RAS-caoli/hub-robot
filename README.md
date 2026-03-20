@@ -2,4 +2,4 @@
 
 # README.md
 
-<https://ras-caoli.github.io/hub-robot>
+<https://ras-caoli.github.io/HuB>
